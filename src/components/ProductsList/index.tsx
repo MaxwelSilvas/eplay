@@ -29,5 +29,3 @@ const ProductList = ({ background, title, games }: Props) => (
   </Container>
 )
 export default ProductList
-
-// "https://dummyimage.com/222x250/000/fff"
